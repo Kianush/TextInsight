@@ -1,0 +1,2 @@
+# TextInsight
+python, text analyzation
